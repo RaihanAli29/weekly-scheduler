@@ -46,6 +46,9 @@ $("<textarea>").addClass("col event " + (isPast ? "past" : isPresent ? "present"
 ```
 I added a conditional (ternary) operator wilst adding classes to selected textarea elements, the styling of the selected elements change according to the CSS and whether the hour is in the past, present or future. 
 
+# Deployment
+Application [- Click here](https://raihanali29.github.io/weekly-scheduler/)
+
 # Resources
 - Conditional (ternary) operator [- read more...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator)
 - Format (day.js) [- read more...](https://day.js.org/docs/en/display/format)
@@ -53,4 +56,4 @@ I added a conditional (ternary) operator wilst adding classes to selected textar
 - .val() method [- read more...](https://www.w3schools.com/jquery/html_val.asp)
 - contains() selector [- read more...](https://www.w3schools.com/jquery/sel_contains.asp)
 
-# Acknowledgements
+
